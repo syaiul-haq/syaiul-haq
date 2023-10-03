@@ -1,8 +1,5 @@
 # Syaiul Haq PCB Design Portofolio
-This portfolio showcases the PCB designs created by me.
-
-## Overview
-PCB project created by me with KiCad.
+This portfolio showcases the PCB designs created by me with KiCad.
 
 ## 3D Preview PCB
 
