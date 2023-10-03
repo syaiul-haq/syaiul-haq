@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @syaiul-haq
+# Syaiul Haq PCB Design Portofolio
+This portfolio showcases the PCB designs created by me.
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - Contact
-- If you are interested in my services for your next PCB design and fabrication project, please feel free to contact me on email.
+  If you are interested in my services for your next PCB design and fabrication project, please feel free to contact me on email.
 
 <!---
 syaiul-haq/syaiul-haq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
